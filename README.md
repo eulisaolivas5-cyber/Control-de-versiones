@@ -1,2 +1,3 @@
 # Control-de-versiones
-Bienvenidos
+Jandry y Eulisa
+
